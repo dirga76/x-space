@@ -1,0 +1,83 @@
+module.exports = {
+    theme: {
+        extend: {
+            left: {
+                "50rem": "50rem",
+            },
+        },
+    },
+};
+module.exports = {
+    theme: {
+        extend: {
+            left: {
+                "30rem": "30rem",
+            },
+            left: {
+                "70rem": "70rem",
+                "20rem": "20rem",
+                "30rem": "30rem",
+                "40rem": "40rem",
+                "25rem": "25rem",
+                "26rem": "26rem",
+                "50rem": "50rem",
+                "60rem": "60rem",
+                "64rem": "64rem",
+                "63rem": "63rem",
+                "62rem": "62rem",
+                "65rem": "65rem",
+                "61rem": "61rem",
+                "60rem": "60rem",
+            },
+            bottom: {
+                "20rem": "20rem",
+                "30rem": "30rem",
+                "64rem": "64rem",
+                "63rem": "63rem",
+                "62rem": "62rem",
+                "65rem": "65rem",
+                "61rem": "61rem",
+                "60rem": "60rem",
+                "50rem": "50rem",
+                "45rem": "45rem",
+                "43rem": "43rem",
+                "10rem": "10rem",
+                "15rem": "15rem",
+                "48rem": "48rem",
+                "55rem": "55rem",
+                "57rem": "57rem",
+                "58rem": "58rem",
+                "80rem": "80rem",
+                "90rem": "90rem",
+                "85rem": "85rem",
+                "86rem": "86rem",
+                "84rem": "84rem",
+                "83rem": "83rem",
+                "82rem": "82rem",
+                "70rem": "70rem",
+                "74rem": "74rem",
+                "75rem": "74rem",
+                "76rem": "76rem",
+                "77rem": "77rem",
+                "78rem": "78rem",
+                "79rem": "79rem",
+                "86.5rem": "86.5rem",
+                "81.5rem": "81.5rem",
+                "81.7rem": "81.7rem",
+                "86.7rem": "86.7rem",
+                "86.8rem": "86.8rem",
+                "86.9rem": "86.9rem",
+                "90rem": "90rem",
+                "90rem": "90rem",
+                "95rem": "95rem",
+            },
+
+            top: {
+                "1px": "1px",
+            },
+            fontSize: {
+                "9xl": "6rem",
+            },
+        },
+    },
+};
